@@ -35,4 +35,5 @@ $ rails test
 を参考にしてください。
 
 
-pullrequest test
+pullrequest test ch05
+pullrequest test ch06
