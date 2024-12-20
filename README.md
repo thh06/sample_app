@@ -37,3 +37,4 @@ $ rails test
 
 pullrequest test ch05
 pullrequest test ch06
+pullrequest test ch07 1more
